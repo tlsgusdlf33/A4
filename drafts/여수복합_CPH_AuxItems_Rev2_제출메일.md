@@ -2,7 +2,8 @@
 
 - 발주처 요청 제목: `[여수복합] CPH Recir. Pump_Auxiliary Items Rev.2 제출 요청`
 - 프로젝트: 25P0396 BHI 여수 HRSG — CPH Recirculation Pump (HB1510-250BH)
-- **선행 조건: 01-05-03-01 Strainer Rev 2 수령** (파세코). 수령 전에는 발송하지 말 것.
+- **2026-09-28 도서 편철 완료.** 통합본 `3-13110-ZM-201-945_HRSG_AUXILIARY ITEMS FOR CPH RECIR. PUMP_Rev 2.pdf`
+  (Strainer 도면은 본 도서 구성 대상이 아님 — 도장 데이터시트에만 포함)
 
 ## 편철 목록
 
@@ -13,8 +14,6 @@
 | 01-05-01-02 | Cooler — 0625-FW | Rev 2 | |
 | 01-05-02-00 | 간지 | - | |
 | 01-05-02-01 | Coupling — PTI disc spacer 140 mm, Ø143 mm | Rev 2 | |
-| 01-05-03-00 | 간지 | - | |
-| 01-05-03-01 | Strainer — 파세코 Y type, 8in, #40&#80, A216 WCB | **Rev 2 (대기)** | 파세코 회신 후 반영 |
 | 01-05-04-00 | 간지 | - | |
 | 01-05-04-01 | Painting Data Sheet — Pump | Rev 2 | |
 | 01-05-04-02 | Painting Data Sheet — Motor | Rev 2 | |
