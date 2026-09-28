@@ -21,6 +21,8 @@
 | 01-05-04-03 | Painting Data Sheet — Strainer | Rev 2 | |
 | 01-05-05-00 | 간지 | - | |
 | 01-05-05-01 | Lubricant List | Rev 2 | |
+| 01-05-06-00 | 간지 | - | 2026-09-28 신설 |
+| 01-05-06-01 | PSV — 조광밸브 JSV-FF21, close, 1×0.75in flange | Rev 2 | 대유상공 #371(09-21) 반영 완료 |
 
 ## 기술 → 영업
 
@@ -34,6 +36,7 @@
   - CPH recirculation 계통 압력 변경에 따른 Mechanical Seal 사양 개정
     (KSM 수정도면 A3H85962 Rev P6, A3H85965 Rev P4 반영)
   - 상기 변경에 연동된 Cooler / Coupling / Strainer / 도장 데이터시트 / Lubricant List 개정
+  - PSV(01-05-06) 신규 편철
 
 첨부 : 01-05-01 ~ 01-05-05 (PDF 일체)
 
